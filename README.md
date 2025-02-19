@@ -1,4 +1,4 @@
-# Sei Blockchain Website
+# Sei Blockchain Website Landing Page
 
 ## **Features**
 
